@@ -1,0 +1,16 @@
+# Build output and runtime data
+out/
+data/
+reports/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+Thumbs.db
+.DS_Store
